@@ -1,4 +1,6 @@
 # grpumps
+## in this project i scrape grpumps site full page details with link extraction insert data into db as well gernate json file.
+
 ``` python
 from datetime import datetime
 from typing import Iterable
