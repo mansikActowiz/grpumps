@@ -1,5 +1,3 @@
-# grpumps
-``` python
 from datetime import datetime
 from typing import Iterable
 from scrapy.cmdline import execute
@@ -507,4 +505,3 @@ class DataSpider(scrapy.Spider):
 
 if __name__ == "__main__":
     execute("scrapy crawl data_new".split())
- ```
